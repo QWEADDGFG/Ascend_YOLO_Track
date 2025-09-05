@@ -1,0 +1,514 @@
+[INFO] 开始推理...
+[INFO]  Acl init ok
+[INFO]  Open device 0 ok
+[INFO]  Use default context currently
+[INFO]  dvpp init resource ok
+[ERROR]  Load model(yolov8n.om) from file return 145002
+[ERROR]  Load model yolov8n.om from file failed
+Init ByteTrack!
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 28 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 29 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 31 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 28 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 28 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 27 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 23 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 26 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 24 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[ERROR]  Create input failed for no input data
+[ERROR]  Execute model(yolov8n.om) error:100000
+[ERROR]  execute model failed, errorCode is 309
+[ERROR]  Inference failed, errorCode is 1
+Detect objects 0, Processing one frame takes 25 ms
+[INFO]  Model(yolov8n.om) had not been loaded or unload already
+[INFO]  destroy context ok
+[INFO]  Reset device 0 ok
+[INFO]  Finalize acl ok
+FPS: 39184
+[INFO] 推理完成.

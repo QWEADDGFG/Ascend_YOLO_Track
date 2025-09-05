@@ -1,0 +1,416 @@
+[INFO] 开始推理...
+[INFO]  Acl init ok
+[INFO]  Open device 0 ok
+[INFO]  Use default context currently
+[INFO]  dvpp init resource ok
+[INFO]  Load model ../model/yolov8n.om success
+[INFO]  Create model description success
+[INFO]  Create model(../model/yolov8n.om) output success
+[INFO]  Init model ../model/yolov8n.om success
+Init ByteTrack!
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.036761 s , fps is 27.202440
+Detect objects 3, Processing one frame takes 164 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033191 s , fps is 30.128794
+Detect objects 3, Processing one frame takes 119 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.032813 s , fps is 30.475761
+Detect objects 3, Processing one frame takes 116 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033343 s , fps is 29.991387
+Detect objects 3, Processing one frame takes 170 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033077 s , fps is 30.232787
+Detect objects 4, Processing one frame takes 479 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.032993 s , fps is 30.309588
+Detect objects 3, Processing one frame takes 505 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.032920 s , fps is 30.376685
+Detect objects 4, Processing one frame takes 528 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033239 s , fps is 30.084737
+Detect objects 3, Processing one frame takes 501 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033150 s , fps is 30.166057
+Detect objects 3, Processing one frame takes 501 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 11
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033209 s , fps is 30.112500
+Detect objects 4, Processing one frame takes 550 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033575 s , fps is 29.784073
+Detect objects 3, Processing one frame takes 555 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033923 s , fps is 29.478654
+Detect objects 4, Processing one frame takes 555 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033089 s , fps is 30.221803
+Detect objects 4, Processing one frame takes 522 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033180 s , fps is 30.138290
+Detect objects 4, Processing one frame takes 534 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033194 s , fps is 30.125862
+Detect objects 4, Processing one frame takes 530 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 10
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033887 s , fps is 29.509410
+Detect objects 4, Processing one frame takes 546 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 11
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033724 s , fps is 29.652478
+Detect objects 4, Processing one frame takes 547 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033303 s , fps is 30.027730
+Detect objects 4, Processing one frame takes 523 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033258 s , fps is 30.067794
+Detect objects 3, Processing one frame takes 515 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 12
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.032998 s , fps is 30.304824
+Detect objects 3, Processing one frame takes 522 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033065 s , fps is 30.243511
+Detect objects 3, Processing one frame takes 528 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033339 s , fps is 29.995117
+Detect objects 2, Processing one frame takes 262 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 10
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033661 s , fps is 29.708050
+Detect objects 2, Processing one frame takes 262 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033065 s , fps is 30.243187
+Detect objects 2, Processing one frame takes 240 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033036 s , fps is 30.269640
+Detect objects 2, Processing one frame takes 243 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033267 s , fps is 30.059716
+Detect objects 2, Processing one frame takes 245 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033325 s , fps is 30.007137
+Detect objects 3, Processing one frame takes 249 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033361 s , fps is 29.975018
+Detect objects 3, Processing one frame takes 252 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 6
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033553 s , fps is 29.803157
+Detect objects 2, Processing one frame takes 237 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033178 s , fps is 30.140901
+Detect objects 3, Processing one frame takes 249 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033457 s , fps is 29.889212
+Detect objects 3, Processing one frame takes 254 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033476 s , fps is 29.872137
+Detect objects 3, Processing one frame takes 256 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033307 s , fps is 30.023522
+Detect objects 3, Processing one frame takes 260 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033103 s , fps is 30.208850
+Detect objects 3, Processing one frame takes 268 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 5
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033697 s , fps is 29.676238
+Detect objects 2, Processing one frame takes 244 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033226 s , fps is 30.096923
+Detect objects 1, Processing one frame takes 205 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033245 s , fps is 30.080080
+Detect objects 1, Processing one frame takes 230 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033414 s , fps is 29.927621
+Detect objects 1, Processing one frame takes 199 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033342 s , fps is 29.992118
+Detect objects 1, Processing one frame takes 227 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033222 s , fps is 30.100924
+Detect objects 1, Processing one frame takes 202 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 3
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 1
+[INFO]  Inference elapsed time : 0.033713 s , fps is 29.661732
+Detect objects 1, Processing one frame takes 201 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 5
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033405 s , fps is 29.935386
+Detect objects 2, Processing one frame takes 231 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033319 s , fps is 30.012484
+Detect objects 2, Processing one frame takes 512 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033515 s , fps is 29.837376
+Detect objects 2, Processing one frame takes 504 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033833 s , fps is 29.557310
+Detect objects 2, Processing one frame takes 504 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 10
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.033871 s , fps is 29.523495
+Detect objects 2, Processing one frame takes 515 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.037513 s , fps is 26.657291
+Detect objects 2, Processing one frame takes 501 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 10
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.034868 s , fps is 28.679756
+Detect objects 2, Processing one frame takes 505 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.036238 s , fps is 27.595005
+Detect objects 2, Processing one frame takes 502 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 7
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.035441 s , fps is 28.215779
+Detect objects 2, Processing one frame takes 507 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 8
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.034385 s , fps is 29.082729
+Detect objects 2, Processing one frame takes 492 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 9
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034438 s , fps is 29.037759
+Detect objects 3, Processing one frame takes 519 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 17
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033496 s , fps is 29.854245
+Detect objects 3, Processing one frame takes 544 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 16
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035617 s , fps is 28.076565
+Detect objects 3, Processing one frame takes 527 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033966 s , fps is 29.441100
+Detect objects 3, Processing one frame takes 509 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 4
+[INFO]  Inference elapsed time : 0.033680 s , fps is 29.691125
+Detect objects 4, Processing one frame takes 522 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035784 s , fps is 27.945386
+Detect objects 3, Processing one frame takes 521 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034284 s , fps is 29.168000
+Detect objects 3, Processing one frame takes 556 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035927 s , fps is 27.833912
+Detect objects 3, Processing one frame takes 558 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034531 s , fps is 28.959866
+Detect objects 3, Processing one frame takes 706 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 16
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035550 s , fps is 28.129101
+Detect objects 3, Processing one frame takes 730 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 16
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033756 s , fps is 29.624203
+Detect objects 3, Processing one frame takes 714 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033716 s , fps is 29.659533
+Detect objects 3, Processing one frame takes 748 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.036557 s , fps is 27.354613
+Detect objects 3, Processing one frame takes 741 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033780 s , fps is 29.602974
+Detect objects 3, Processing one frame takes 1020 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033550 s , fps is 29.805933
+Detect objects 3, Processing one frame takes 770 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 17
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033715 s , fps is 29.660412
+Detect objects 3, Processing one frame takes 737 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033850 s , fps is 29.542374
+Detect objects 3, Processing one frame takes 749 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033592 s , fps is 29.769018
+Detect objects 3, Processing one frame takes 758 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034228 s , fps is 29.216024
+Detect objects 3, Processing one frame takes 765 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033676 s , fps is 29.694633
+Detect objects 3, Processing one frame takes 750 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033454 s , fps is 29.892098
+Detect objects 3, Processing one frame takes 753 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033710 s , fps is 29.664500
+Detect objects 3, Processing one frame takes 766 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 14
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033442 s , fps is 29.902954
+Detect objects 3, Processing one frame takes 752 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033272 s , fps is 30.055087
+Detect objects 3, Processing one frame takes 753 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 13
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.037269 s , fps is 26.831953
+Detect objects 3, Processing one frame takes 804 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 15
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033714 s , fps is 29.661237
+Detect objects 3, Processing one frame takes 720 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 16
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034980 s , fps is 28.587876
+Detect objects 3, Processing one frame takes 734 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 18
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033345 s , fps is 29.989944
+Detect objects 3, Processing one frame takes 731 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 18
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033649 s , fps is 29.718737
+Detect objects 3, Processing one frame takes 732 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 18
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033435 s , fps is 29.908395
+Detect objects 3, Processing one frame takes 734 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034307 s , fps is 29.148268
+Detect objects 3, Processing one frame takes 750 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.033642 s , fps is 29.724828
+Detect objects 3, Processing one frame takes 733 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 20
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034582 s , fps is 28.916408
+Detect objects 3, Processing one frame takes 469 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035536 s , fps is 28.140365
+Detect objects 3, Processing one frame takes 847 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 20
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034907 s , fps is 28.647474
+Detect objects 3, Processing one frame takes 864 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 20
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035021 s , fps is 28.554219
+Detect objects 3, Processing one frame takes 870 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 22
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035842 s , fps is 27.900082
+Detect objects 3, Processing one frame takes 886 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 21
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034990 s , fps is 28.579517
+Detect objects 3, Processing one frame takes 864 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 22
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.034933 s , fps is 28.626066
+Detect objects 3, Processing one frame takes 876 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 20
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035115 s , fps is 28.478187
+Detect objects 3, Processing one frame takes 866 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 22
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035174 s , fps is 28.430131
+Detect objects 3, Processing one frame takes 874 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 22
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035104 s , fps is 28.487026
+Detect objects 3, Processing one frame takes 866 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035517 s , fps is 28.155254
+Detect objects 3, Processing one frame takes 886 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 21
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.036177 s , fps is 27.641503
+Detect objects 3, Processing one frame takes 897 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.035786 s , fps is 27.943710
+Detect objects 3, Processing one frame takes 875 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 18
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.039262 s , fps is 25.469932
+Detect objects 2, Processing one frame takes 1039 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 19
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 3
+[INFO]  Inference elapsed time : 0.068508 s , fps is 14.596902
+Detect objects 3, Processing one frame takes 880 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 17
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.043364 s , fps is 23.060563
+Detect objects 2, Processing one frame takes 875 ms
+[INFO]  filter boxes by confidence threshold > 0.350000 success, boxes size is 17
+[INFO]  filter boxes by NMS threshold > 0.450000 success, result size is 2
+[INFO]  Inference elapsed time : 0.035199 s , fps is 28.409686
+Detect objects 2, Processing one frame takes 873 ms
+[INFO]  Unload model ../model/yolov8n.om success
+[INFO]  destroy context ok
+[INFO]  Reset device 0 ok
+[INFO]  Finalize acl ok
+FPS: 1783
+[INFO] 推理完成.

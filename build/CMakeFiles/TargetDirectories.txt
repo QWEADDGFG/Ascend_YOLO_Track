@@ -1,0 +1,3 @@
+/home/HwHiAiUser/gp/Ascend_YOLO_Track/build/CMakeFiles/ByteTrack.dir
+/home/HwHiAiUser/gp/Ascend_YOLO_Track/build/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/gp/Ascend_YOLO_Track/build/CMakeFiles/rebuild_cache.dir
